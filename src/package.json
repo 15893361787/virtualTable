@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "react-window": "latest",
+    "react-dom": "latest",
+    "react": "latest",
+    "rc-resize-observer": "latest",
+    "classnames": "latest",
+    "antd": "4.0.1",
+    "@ant-design/icons": "latest"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "react-window": "latest",
+    "react-dom": "latest",
+    "react": "latest",
+    "rc-resize-observer": "latest",
+    "classnames": "latest",
+    "antd": "4.0.1",
+    "@ant-design/icons": "latest"
+  },
+  "name": "n1sbg",
+  "description": null,
+  "version": "0.0.0",
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
